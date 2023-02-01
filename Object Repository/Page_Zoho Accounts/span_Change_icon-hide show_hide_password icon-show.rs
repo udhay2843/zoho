@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Change_icon-hide show_hide_password icon-show</name>
+   <tag></tag>
+   <elementGuidId>b744dded-cbc3-4742-bdf2-b2563bf69583</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@onclick='showHidePassword();']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon-hide.show_hide_password.icon-show</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>375c6f8d-b6c9-4e10-9932-f83c390b86f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-hide show_hide_password icon-show</value>
+      <webElementGuid>9b3406bc-cfbc-4f9e-8ec5-cf776d807ded</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>showHidePassword();</value>
+      <webElementGuid>d97d4658-a58b-4d30-9750-10474ca5b3ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;password_container&quot;)/div[@class=&quot;textbox_div&quot;]/span[@class=&quot;icon-hide show_hide_password icon-show&quot;]</value>
+      <webElementGuid>281ecf51-aa03-400e-af6b-f0fce5a81de1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@onclick='showHidePassword();']</value>
+      <webElementGuid>75652834-3a2c-44f8-8c98-9fa199d4bef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='password_container']/div[2]/span</value>
+      <webElementGuid>5c95b942-4113-44cf-9a4d-427d45432ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/span</value>
+      <webElementGuid>2df8ca58-8fc0-445a-b2f8-bf4b43667a43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
